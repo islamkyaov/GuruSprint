@@ -1,8 +1,6 @@
 fun main() {
-    val name = "Нургали Асланович"
-    println("Hello, " + name + "!")
-
-    for (i in 1..5) {
-        println("i = $i")
-    }
+  val Name = "Ислам"
+  val age = 16
+  val Bools = Boolean
+    println("Сделал")
 }
