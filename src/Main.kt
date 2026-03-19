@@ -1,4 +1,3 @@
-
 fun main() {
     val name = "Нургали Асланович"
     println("Hello, " + name + "!")
