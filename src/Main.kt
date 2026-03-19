@@ -1,6 +1,6 @@
 fun main() {
-  val Name = "Ислам"
+  val Name = "Хэути"
   val Age = 16
   val Bools = Boolean
-    println("Сделал")
+    println("Сделал все для Хьэути")
 }
