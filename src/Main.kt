@@ -3,4 +3,5 @@ fun main() {
   val Age = 16
   val Bools = Boolean
     println("Сделал все для Хьэути")
+    println("Алихан маленький человек")
 }
