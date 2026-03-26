@@ -11,5 +11,5 @@ fun main() {
         }
         println(i)
     }
-    println("Цикл прерван")
+    println("Цикл прерванщ")
 }
